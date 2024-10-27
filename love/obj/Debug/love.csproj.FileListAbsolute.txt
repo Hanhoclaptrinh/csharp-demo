@@ -1,0 +1,15 @@
+D:\CSharp-Test\love\bin\Debug\love.exe.config
+D:\CSharp-Test\love\bin\Debug\love.exe
+D:\CSharp-Test\love\bin\Debug\love.pdb
+D:\CSharp-Test\love\obj\Debug\love.csproj.AssemblyReference.cache
+D:\CSharp-Test\love\obj\Debug\love.Form1.resources
+D:\CSharp-Test\love\obj\Debug\love.Properties.Resources.resources
+D:\CSharp-Test\love\obj\Debug\love.csproj.GenerateResource.cache
+D:\CSharp-Test\love\obj\Debug\love.csproj.CoreCompileInputs.cache
+D:\CSharp-Test\love\obj\Debug\love.exe
+D:\CSharp-Test\love\obj\Debug\love.pdb
+D:\CSharp-Test\love\bin\Debug\Interop.WMPLib.dll
+D:\CSharp-Test\love\bin\Debug\AxInterop.WMPLib.dll
+D:\CSharp-Test\love\obj\Debug\Interop.WMPLib.dll
+D:\CSharp-Test\love\obj\Debug\AxInterop.WMPLib.dll
+D:\CSharp-Test\love\obj\Debug\love.csproj.ResolveComReference.cache
